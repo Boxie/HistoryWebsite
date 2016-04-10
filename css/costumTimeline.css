@@ -1,0 +1,36 @@
+.tl-headline-date{
+	color: #ee4d4d !important;
+}
+
+.tl-headline {
+	color: #2b2e48 !important;
+}
+
+.tl-text-content {
+	color: #726f77 !important;
+}
+
+.tl-slidenav-next {
+	color: #2b2e48 !important;
+}
+
+.tl-slidenav-previous {
+	color: #2b2e48 !important;
+}
+
+.tl-slidenav-icon {
+	color: #2b2e48 !important;
+}
+.tl-slidenav-title {
+	color: white !important;
+	font-weight: 200 !important;
+}
+
+.tl-slidenav-description {
+	color: #b9b9b9 !important;
+	font-weight: 200 !important;
+}
+
+.tl-menubar {
+	opacity: 1;
+}
